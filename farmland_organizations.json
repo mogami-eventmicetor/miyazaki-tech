@@ -1,0 +1,237 @@
+[
+  {
+    "prefecture": "北海道",
+    "name": "（公財）北海道農業公社",
+    "url": "http://www.adhokkaido.or.jp/"
+  },
+  {
+    "prefecture": "青森県",
+    "name": "（公社）あおもり農業支援センター",
+    "url": "http://aomori-nogyoshien.jp/"
+  },
+  {
+    "prefecture": "岩手県",
+    "name": "（公社）岩手県農業公社",
+    "url": "http://www.i-agri.or.jp/"
+  },
+  {
+    "prefecture": "宮城県",
+    "name": "（公社）みやぎ農業振興公社",
+    "url": "http://www.miyagi-agri.com/"
+  },
+  {
+    "prefecture": "秋田県",
+    "name": "（公社）秋田県農業公社",
+    "url": "http://www.ak-agri.or.jp/"
+  },
+  {
+    "prefecture": "山形県",
+    "name": "（公財）やまがた農業支援センター",
+    "url": "http://www.yamagata-nogyo-sc.or.jp/"
+  },
+  {
+    "prefecture": "福島県",
+    "name": "（公財）福島県農業振興公社",
+    "url": "http://www.fnk.or.jp/"
+  },
+  {
+    "prefecture": "茨城県",
+    "name": "（公社）茨城県農林振興公社",
+    "url": "http://www.ibanourin.or.jp/"
+  },
+  {
+    "prefecture": "栃木県",
+    "name": "（公財）栃木県農業振興公社",
+    "url": "http://www.tochigi-agri.or.jp/"
+  },
+  {
+    "prefecture": "群馬県",
+    "name": "（公財）群馬県農業公社",
+    "url": "http://www.gnk.or.jp/"
+  },
+  {
+    "prefecture": "埼玉県",
+    "name": "（公社）埼玉県農林公社",
+    "url": "http://www.sainourin.or.jp/nouchi/index.html/"
+  },
+  {
+    "prefecture": "千葉県",
+    "name": "（公社）千葉県園芸協会",
+    "url": "http://www.chiba-engei.or.jp/mgtmech.html/"
+  },
+  {
+    "prefecture": "東京都",
+    "name": "（一社）東京都農業会議",
+    "url": "https://www.tokaigi.com/"
+  },
+  {
+    "prefecture": "神奈川県",
+    "name": "（公社）神奈川県農業会議",
+    "url": "http://www.k-nk.or.jp/"
+  },
+  {
+    "prefecture": "山梨県",
+    "name": "（公財）山梨県農業振興公社",
+    "url": "http://www.y-nk.jp/"
+  },
+  {
+    "prefecture": "長野県",
+    "name": "（公財）長野県農業開発公社",
+    "url": "http://www.n-nouchi.net/"
+  },
+  {
+    "prefecture": "静岡県",
+    "name": "（公社）静岡県農業振興公社",
+    "url": "http://www.shizuoka-nk.or.jp/"
+  },
+  {
+    "prefecture": "新潟県",
+    "name": "（公社）新潟県農林公社",
+    "url": "http://www.nochibank-niigata.com/"
+  },
+  {
+    "prefecture": "富山県",
+    "name": "（公社）富山県農林水産公社",
+    "url": "http://www.taff.or.jp/"
+  },
+  {
+    "prefecture": "石川県",
+    "name": "（公財）いしかわ農業総合支援機構",
+    "url": "http://www.inz.or.jp/"
+  },
+  {
+    "prefecture": "福井県",
+    "name": "（公社）ふくい農林水産支援センター",
+    "url": "http://www.fukui-affsc.jp/"
+  },
+  {
+    "prefecture": "岐阜県",
+    "name": "（一社）岐阜県農畜産公社",
+    "url": "http://nochichukan-gifu.com/"
+  },
+  {
+    "prefecture": "愛知県",
+    "name": "（公財）愛知県農業振興基金",
+    "url": "http://www.aichinoshinki.or.jp/"
+  },
+  {
+    "prefecture": "三重県",
+    "name": "（公財）三重県農林水産支援センター",
+    "url": "http://aff-shien-mie.or.jp/"
+  },
+  {
+    "prefecture": "滋賀県",
+    "name": "（公財）滋賀県農林漁業担い手育成基金",
+    "url": "https://shiganou.work/"
+  },
+  {
+    "prefecture": "京都府",
+    "name": "（一社）京都府農業会議",
+    "url": "http://www.agr-k.or.jp/"
+  },
+  {
+    "prefecture": "大阪府",
+    "name": "（一財）大阪府みどり公社",
+    "url": "http://www.osaka-midori.jp/"
+  },
+  {
+    "prefecture": "兵庫県",
+    "name": "（公社）ひょうご農林機構",
+    "url": "http://www.forest-hyogo.jp/"
+  },
+  {
+    "prefecture": "奈良県",
+    "name": "（公財）なら担い手・農地サポートセンター",
+    "url": "http://www.nara-ninanou.sakura.ne.jp/"
+  },
+  {
+    "prefecture": "和歌山県",
+    "name": "（公財）和歌山県農業公社",
+    "url": "http://w-apc.or.jp/index.html/"
+  },
+  {
+    "prefecture": "鳥取県",
+    "name": "（公財）鳥取県農業農村担い手育成機構",
+    "url": "http://www.t-agri.com/"
+  },
+  {
+    "prefecture": "島根県",
+    "name": "（公財）しまね農業振興公社",
+    "url": "https://www.agri-shimane.or.jp/"
+  },
+  {
+    "prefecture": "岡山県",
+    "name": "（公財）岡山県農林漁業担い手育成財団",
+    "url": "https://ninaiteokayama.or.jp/"
+  },
+  {
+    "prefecture": "広島県",
+    "name": "（一財）広島県森林整備・農業振興財団",
+    "url": "http://hsnz.jp/"
+  },
+  {
+    "prefecture": "山口県",
+    "name": "（公財）やまぐち農林振興公社",
+    "url": "http://www.y-agreen.or.jp/"
+  },
+  {
+    "prefecture": "徳島県",
+    "name": "（公財）徳島県農業開発公社",
+    "url": "http://www.tokushima-kousha.jp/"
+  },
+  {
+    "prefecture": "香川県",
+    "name": "（公財）香川県農地機構",
+    "url": "http://kagawa-nk.jp/"
+  },
+  {
+    "prefecture": "愛媛県",
+    "name": "（公財）えひめ農林漁業振興機構",
+    "url": "http://enk.or.jp/"
+  },
+  {
+    "prefecture": "高知県",
+    "name": "（公財）高知県農業公社",
+    "url": "http://www.kochi-apc.or.jp/"
+  },
+  {
+    "prefecture": "福岡県",
+    "name": "（公財）福岡県農業振興推進機構",
+    "url": "http://www.f-ap.org/"
+  },
+  {
+    "prefecture": "佐賀県",
+    "name": "（公社）佐賀県農業公社",
+    "url": "http://saga-agri.or.jp/"
+  },
+  {
+    "prefecture": "長崎県",
+    "name": "（公財）長崎県農業振興公社",
+    "url": "http://ngskosha.server-shared.com/"
+  },
+  {
+    "prefecture": "熊本県",
+    "name": "（公財）熊本県農業公社",
+    "url": "http://www.kumamoto-kousha.or.jp/"
+  },
+  {
+    "prefecture": "大分県",
+    "name": "（公社）大分県農業農村振興公社",
+    "url": "http://onk.oita.jp/"
+  },
+  {
+    "prefecture": "宮崎県",
+    "name": "（公社）宮崎県農業振興公社",
+    "url": "http://www.mnk.or.jp/"
+  },
+  {
+    "prefecture": "鹿児島県",
+    "name": "（公財）鹿児島県地域振興公社",
+    "url": "https://www.kagoshima-kousya.jp/"
+  },
+  {
+    "prefecture": "沖縄県",
+    "name": "（公財）沖縄県農業振興公社",
+    "url": "http://www.onk.or.jp/"
+  }
+]
