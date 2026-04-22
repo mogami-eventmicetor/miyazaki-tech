@@ -1,0 +1,210 @@
+[
+  {
+    "name": "宮崎市",
+    "kana": "みやざきし",
+    "type": "city",
+    "romaji": "miyazaki",
+    "url": "https://www.city.miyazaki.miyazaki.jp/",
+    "url_source": "pattern_verified"
+  },
+  {
+    "name": "都城市",
+    "kana": "みやこのじょうし",
+    "type": "city",
+    "romaji": "miyakonojo",
+    "url": "https://www.city.miyakonojo.miyazaki.jp/",
+    "url_source": "pattern_verified"
+  },
+  {
+    "name": "延岡市",
+    "kana": "のべおかし",
+    "type": "city",
+    "romaji": "nobeoka",
+    "url": "https://www.city.nobeoka.miyazaki.jp/",
+    "url_source": "pattern_verified"
+  },
+  {
+    "name": "日南市",
+    "kana": "にちなんし",
+    "type": "city",
+    "romaji": "nichinan",
+    "url": "https://www.city.nichinan.lg.jp/",
+    "url_source": "pattern_verified"
+  },
+  {
+    "name": "小林市",
+    "kana": "こばやしし",
+    "type": "city",
+    "romaji": "kobayashi",
+    "url": "https://www.city.kobayashi.lg.jp/",
+    "url_source": "pattern_verified"
+  },
+  {
+    "name": "日向市",
+    "kana": "ひゅうがし",
+    "type": "city",
+    "romaji": "hyuga",
+    "url": "https://www.city.hyuga.miyazaki.jp/",
+    "url_source": "pattern_verified"
+  },
+  {
+    "name": "串間市",
+    "kana": "くしまし",
+    "type": "city",
+    "romaji": "kushima",
+    "url": "https://www.city.kushima.lg.jp/",
+    "url_source": "pattern_verified"
+  },
+  {
+    "name": "西都市",
+    "kana": "さいとし",
+    "type": "city",
+    "romaji": "saito",
+    "url": "https://www.city.saito.lg.jp/",
+    "url_source": "pattern_verified"
+  },
+  {
+    "name": "えびの市",
+    "kana": "えびのし",
+    "type": "city",
+    "romaji": "ebino",
+    "url": "https://www.city.ebino.lg.jp/",
+    "url_source": "pattern_verified"
+  },
+  {
+    "name": "三股町",
+    "kana": "みまたちょう",
+    "type": "town",
+    "romaji": "mimata",
+    "url": "https://www.town.mimata.lg.jp/",
+    "url_source": "pattern_verified"
+  },
+  {
+    "name": "高原町",
+    "kana": "たかはるちょう",
+    "type": "town",
+    "romaji": "takaharu",
+    "url": "https://www.town.takaharu.lg.jp/",
+    "url_source": "pattern_verified"
+  },
+  {
+    "name": "国富町",
+    "kana": "くにとみちょう",
+    "type": "town",
+    "romaji": "kunitomi",
+    "url": "https://www.town.kunitomi.miyazaki.jp/",
+    "url_source": "pattern_verified"
+  },
+  {
+    "name": "綾町",
+    "kana": "あやちょう",
+    "type": "town",
+    "romaji": "aya",
+    "url": "https://www.town.aya.miyazaki.jp/",
+    "url_source": "pattern_verified"
+  },
+  {
+    "name": "高鍋町",
+    "kana": "たかなべちょう",
+    "type": "town",
+    "romaji": "takanabe",
+    "url": "https://www.town.takanabe.lg.jp/",
+    "url_source": "pattern_verified"
+  },
+  {
+    "name": "新富町",
+    "kana": "しんとみちょう",
+    "type": "town",
+    "romaji": "shintomi",
+    "url": "https://www.town.shintomi.lg.jp/",
+    "url_source": "pattern_verified"
+  },
+  {
+    "name": "木城町",
+    "kana": "きじょうちょう",
+    "type": "town",
+    "romaji": "kijo",
+    "url": "https://www.town.kijo.lg.jp/",
+    "url_source": "pattern_verified"
+  },
+  {
+    "name": "川南町",
+    "kana": "かわみなみちょう",
+    "type": "town",
+    "romaji": "kawaminami",
+    "url": "https://www.town.kawaminami.miyazaki.jp/",
+    "url_source": "pattern_verified"
+  },
+  {
+    "name": "都農町",
+    "kana": "つのちょう",
+    "type": "town",
+    "romaji": "tsuno",
+    "url": "https://www.town.tsuno.lg.jp/",
+    "url_source": "pattern_verified"
+  },
+  {
+    "name": "門川町",
+    "kana": "かどがわちょう",
+    "type": "town",
+    "romaji": "kadogawa",
+    "url": "https://www.town.kadogawa.lg.jp/",
+    "url_source": "pattern_verified"
+  },
+  {
+    "name": "美郷町",
+    "kana": "みさとちょう",
+    "type": "town",
+    "romaji": "misato",
+    "url": "https://www.town.miyazaki-misato.lg.jp/",
+    "url_source": "duckduckgo"
+  },
+  {
+    "name": "高千穂町",
+    "kana": "たかちほちょう",
+    "type": "town",
+    "romaji": "takachiho",
+    "url": "https://iju.pref.miyazaki.lg.jp/municipality/takachiho/",
+    "url_source": "duckduckgo"
+  },
+  {
+    "name": "日之影町",
+    "kana": "ひのかげちょう",
+    "type": "town",
+    "romaji": "hinokage",
+    "url": "https://www.town.hinokage.lg.jp/",
+    "url_source": "pattern_verified"
+  },
+  {
+    "name": "五ヶ瀬町",
+    "kana": "ごかせちょう",
+    "type": "town",
+    "romaji": "gokase",
+    "url": "https://www.town.gokase.miyazaki.jp/",
+    "url_source": "pattern_verified"
+  },
+  {
+    "name": "西米良村",
+    "kana": "にしめらそん",
+    "type": "village",
+    "romaji": "nishimera",
+    "url": "https://www.vill.nishimera.lg.jp/",
+    "url_source": "pattern_verified"
+  },
+  {
+    "name": "諸塚村",
+    "kana": "もろつかそん",
+    "type": "village",
+    "romaji": "morotsuka",
+    "url": "https://www.vill.morotsuka.miyazaki.jp/",
+    "url_source": "pattern_verified"
+  },
+  {
+    "name": "椎葉村",
+    "kana": "しいばそん",
+    "type": "village",
+    "romaji": "shiiba",
+    "url": "https://www.vill.shiiba.miyazaki.jp/",
+    "url_source": "pattern_verified"
+  }
+]
